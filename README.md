@@ -1,16 +1,27 @@
-## Hi there 👋
+# Anhedral
 
-<!--
-**anhedral/anhedral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Move fast. Keep control.**
 
-Here are some ideas to get you started:
+Anhedral is a software engineering company that scopes, builds, and hardens AI workflows, mobile and web platforms, internal tools, MVPs, and modernization projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What we build
+
+- AI workflow automation and production AI systems
+- Mobile and web applications
+- Internal tools and operational platforms
+- MVPs and product engineering
+- Legacy-system modernization
+- Technical scoping and production maturation
+
+## Open source
+
+- [Anhedral Init](https://github.com/anhedral/anhedral-init) — bootstrap modern application stacks and agent-ready development workflows.
+
+## Work with Anhedral
+
+We work with startups, research teams, and established organizations that need senior execution, clear scope, visible delivery, and a clean handoff.
+
+- [Website](https://www.anhedral.com)
+- [Services](https://www.anhedral.com/engagements)
+- [About](https://www.anhedral.com/about)
+- [LinkedIn](https://www.linkedin.com/company/anhedral/)
